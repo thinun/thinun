@@ -9,9 +9,9 @@ hight="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pja3ZoODhhMn
 
 - 🔭 I’m currently working on [Web Scrapper](https://github.com/thinun/Web_scrapper)
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://resplendent-heliotrope-1022eb.netlify.app/](https://resplendent-heliotrope-1022eb.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliothinun.netlify.app/)
 
 - 📫 How to reach me **thinuntharushika@gmail.com**
 
