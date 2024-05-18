@@ -11,7 +11,7 @@ hight="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pja3ZoODhhMn
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at: https://portfoliothinun.netlify.app/
+- 👨‍💻 Portfolio: https://portfoliothinun.netlify.app/
 
 - 📫 How to reach me **thinuntharushika@gmail.com**
 
