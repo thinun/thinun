@@ -1,13 +1,13 @@
 <img align="center" alt="Banner" width="1400" 
 hight="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pja3ZoODhhMnFkNmxwdmU5dGpkNzdwbGs4bHJ1NmU1cjcwdTV3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
 <h1 align="center">Hi 👋, I'm Thinun Tharushika</h1>
-<h3 align="center">A passionate Fullstack Python developer from Sri Lanka</h3>
+<h3 align="center">A passionate Frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxoYWRjcXN5bXVobTVyZ2dmM3Rkcm15aTdvbTV3dWczanVudTRsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinun&label=Profile%20views&color=0e75b6&style=flat" alt="thinun" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Web Scrapper](https://github.com/thinun/Web_scrapper)
+- 🔭 I’m currently working on [a Blog](https://github.com/thinun/Web_scrapper)
 
 - 🌱 I’m currently learning **React**
 
