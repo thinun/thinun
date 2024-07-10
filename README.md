@@ -1,5 +1,5 @@
 <img align="center" alt="Banner" width="1400" 
-hight="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pja3ZoODhhMnFkNmxwdmU5dGpkNzdwbGs4bHJ1NmU1cjcwdTV3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
+hight="50" src="https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_720_1280/0/1646907885048?e=1726099200&v=beta&t=nVZTScnND32mL39vqURuBDE5CUfYCYg9TLVVgWdclhM">
 <h1 align="center">Hi 👋, I'm Thinun Tharushika</h1>
 <h3 align="center">A passionate Frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxoYWRjcXN5bXVobTVyZ2dmM3Rkcm15aTdvbTV3dWczanVudTRsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif">
