@@ -7,7 +7,7 @@ hight="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pja3ZoODhhMn
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [a Blog](https://github.com/thinun/Web_scrapper)
+- 🔭 I’m currently working on [a Blog]((https://github.com/thinun/Blog-React_laravel))
 
 - 🌱 I’m currently learning **React**
 
