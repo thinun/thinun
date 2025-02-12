@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Frontend developer from Sri Lanka with a knack for backend as well...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinun&label=Profile%20views&color=0e75b6&style=flat" alt="thinun" /> </p>
 
-- 🔭 I’m currently working on [Blog](https://github.com/thinun/Blog-React_laravel)
-- 🌱 I’m currently learning **Next and Express**
-
 - 📫 How to reach me **thinuntharushika@gmail.com**
 - 👨‍💻 All of my projects are available at **https://portfoliothinun.netlify.app/**
 
