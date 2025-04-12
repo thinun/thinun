@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinun&label=Profile%20views&color=0e75b6&style=flat" alt="thinun" /> </p>
 
 - 📫 How to reach me **thinuntharushika@gmail.com**
-- 👨‍💻 All of my projects are available at **https://thinun-tharushika.netlify.app**
+- 👨‍💻 Portfolio **https://thinun-tharushika.netlify.app**
 
 <div> <a href="https://www.linkedin.com/in/Thinun Tharushika" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/thinun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
